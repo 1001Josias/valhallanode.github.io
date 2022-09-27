@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 -  -->
 <p align="center">
-  <a href="https://github.com/ValhallaNode"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7351A&width=435&lines=ValhallaNodes+In+Progress;Expect+it+sooner;Shiro%2C+Pyro%2C+Ace;Soon+also+%3A+Darkcash.posi" alt="Typing SVG" /></a>"></a>
+  <a href="https://github.com/ValhallaNode"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7351A&width=435&lines=ValhallaNodes+In+Progress;Expect+it+sooner;Shiro%2C+Pyro%2C+Ace;Soon+also+%3A+Darkcash.posi" alt="Typing SVG"/></a>"></a>
 </p>
 
 <!-- Social icons section -->
